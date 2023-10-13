@@ -15,7 +15,7 @@
 
 1. Запустить Docker Desktop
 2. Запустить IntelliJ IDEA
-3. Открыть скачанный с GitHub проект ([https://github.com/VitaliyMenshikov/QA_Diploma](https://github.com/Sheinart/Diploma))
+3. Открыть скачанный с GitHub проект (https://github.com/Sheinart/Diploma).)
 4. Запустить контейнеры командой в корне проекта `docker-compose up`
 5. Запустить приложение командой:
 - для запуска с подключением к MySQL:
