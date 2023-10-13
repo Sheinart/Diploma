@@ -7,9 +7,9 @@
 
 ### Документы ###
 
-1. [План автоматизации](https://github.com/VitaliyMenshikov/QA_Diploma/blob/main/docs/Plan.md)
-2. [Отчет по итогам тестирования](https://github.com/VitaliyMenshikov/QA_Diploma/blob/main/docs/Report.md)
-3. [Отчет по итогам автоматизации](https://github.com/VitaliyMenshikov/QA_Diploma/blob/main/docs/Summary.md)
+1. [План автоматизации](https://github.com/Sheinart/Diploma/blob/main/docs/Plan.md)
+2. [Отчет по итогам тестирования](https://github.com/Sheinart/Diploma/blob/main/docs/Report.md)
+3. [Отчет по итогам автоматизации](https://github.com/Sheinart/Diploma/blob/main/docs/Summary.md)
 
 ### Запуск проекта, тестирование, отчет ###
 
